@@ -18,11 +18,3 @@ Implementation Details
 - Iterators: Custom iterator implementations allow seamless iteration through both data structures.
 
 - Maven Project Structure: Organized with separate classes for each data structure inside src/main/java.
-
-Technologies Used
-
-- Java (Generic Types, Collections Framework, Linked Data Structures)
-
-- Maven (Project management and build automation)
-
-- Iterator Pattern (For controlled traversal of elements)
